@@ -18,10 +18,3 @@ I'm Michael from Albania, and I'm a single game developer and 2D artist. I reall
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Shollaj&theme=dark&show_icons=true)
 
-
-<a href="https://github.com/Michael-Shollaj/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Shollaj&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michael-Shollaj&repo=convoychat" />
-</a>
