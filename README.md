@@ -1,4 +1,4 @@
-### Hi there 👋, Michael Shollaj
+### Hi there 👋,I'm Michael Shollaj
 #### Game Developer 
 ![Game Developer ](https://media-exp1.licdn.com/dms/image/C4E16AQHEGqJTBIxXOQ/profile-displaybackgroundimage-shrink_350_1400/0/1638925192171?e=1644451200&v=beta&t=j0SdXVKpeDQGss6kOmoQKRIO8rO4PRESft4z4_guF74)
 
