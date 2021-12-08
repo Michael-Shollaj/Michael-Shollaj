@@ -15,6 +15,8 @@ I'm Michael from Greece, and I'm a single game developer and 2D artist. I really
  #### EXAMPLE WORK;
  
  ![image](https://user-images.githubusercontent.com/55102646/145208777-58841f4a-4623-47f4-9bfa-1e9dbc7bc078.png)
+ 
+ ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Shollaj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
