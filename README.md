@@ -6,9 +6,9 @@ I'm Michael from Albania, and I'm a single game developer and 2D artist. I reall
 
 #### Skills and Experience: 
 
-*💻 C#, C++,
-*🎮 Unity Engine, Unreal Engine
-*🖌️ Inkscape, Adobe Photoshop, Adobe Animate, Adobe Illustrator
+* 💻 C#, C++,
+* 🎮 Unity Engine, Unreal Engine
+* 🖌️ Inkscape, Adobe Photoshop, Adobe Animate, Adobe Illustrator
 - 🔭 I’m currently working on NFT game project 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Shollaj&theme=dark&show_icons=true)
