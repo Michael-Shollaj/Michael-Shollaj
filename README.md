@@ -4,12 +4,18 @@
 
 I'm Michael from Greece, and I'm a single game developer and 2D artist. I really enjoy developing mobile games with Unity and Unreal Engine, programming in C# and C++, also, drawing 2D characters for my games. I also enjoy developing augmented reality projects, using Vuforia and Wikitude. You can check out my all my social medias accounts; Facebook account at https://www.facebook.com/, Instagram account at https://www.instagram.com/ Linkedin account at https://www.linkedin.com/mynetwork/ Discord account at https://discord.com/channels/@me You can check also my games that I published at Google Play Store https://play.google.com/store/apps/details?id=com.michaelShollaj.bubbleIrritating https://play.google.com/store/apps/details?id=io.MichaelShollaj.OnceSentFromGoldenHall
 
-#### Skills and Experience: 
+#### SKILLS AND EXPERIENCE; 
 
 * 💻 C#, C++,
 * 🎮 Unity Engine, Unreal Engine
 * 🖌️ Inkscape, Adobe Photoshop, Adobe Animate, Adobe Illustrator
 - 🔭 I’m currently working on NFT game project 
+
+
+ #### EXAMPLE WORK;
+ 
+ ![image](https://user-images.githubusercontent.com/55102646/145208777-58841f4a-4623-47f4-9bfa-1e9dbc7bc078.png)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Shollaj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
