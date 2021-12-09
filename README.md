@@ -13,8 +13,11 @@ I'm Michael from Greece, and I'm a single game developer and 2D artist. I really
 
 
  #### EXAMPLE WORK;
- 
  ![image](https://user-images.githubusercontent.com/55102646/145208777-58841f4a-4623-47f4-9bfa-1e9dbc7bc078.png)
+ 
+ ![gif_animation_010](https://user-images.githubusercontent.com/55102646/145382900-7d91369a-4533-4df0-a820-b08ee917da5c.gif)
+
+ 
  
  ![Visitor Count](https://profile-counter.glitch.me/{Michael-Shollaj}/count.svg)
 
