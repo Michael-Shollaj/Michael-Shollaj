@@ -6,11 +6,11 @@ I'm Michael from Albania, and I'm a single game developer and 2D artist. I reall
 
 #### SKILLS,EXPERIENCE AND CERTIFICATES; 
 
-![MichiganUniversityCertificate](https://user-images.githubusercontent.com/55102646/147863287-de4b6e0f-bb7b-48f5-8d98-97a5eacafd36.png)
-
-
-
+![MichiganUniversityCertificate](https://user-images.githubusercontent.com/55102646/147863287-de4b6e0f-bb7b-48f5-8d98-97a5eacafd36.png)      
 ![HarvardUniversityCertificate](https://user-images.githubusercontent.com/55102646/147863289-a0bcd7bb-dd78-4ba0-b622-870b8f8e3677.png)
+
+
+
 
 
 * 💻 C#, C++,
