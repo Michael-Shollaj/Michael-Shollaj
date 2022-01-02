@@ -20,7 +20,8 @@ I'm Michael from Albania, and I'm a single game developer and 2D artist. I reall
 
 
  #### EXAMPLE WORK;
- ![image](https://user-images.githubusercontent.com/55102646/145208777-58841f4a-4623-47f4-9bfa-1e9dbc7bc078.png)
+ ![VikingGameSample](https://user-images.githubusercontent.com/55102646/147863333-f6deb9a0-074e-4a7c-901a-1a800bf601cd.png)
+
  
  ![gif_animation_010](https://user-images.githubusercontent.com/55102646/145382900-7d91369a-4533-4df0-a820-b08ee917da5c.gif)
 
