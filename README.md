@@ -21,7 +21,7 @@ I'm Michael from Albania, and I'm a single game developer and 2D artist. I reall
  
  ![Visitor Count](https://profile-counter.glitch.me/{Michael-Shollaj}/count.svg)
 
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Shollaj&layout=compact)](https://github.com/Michael-Shollaj/github-readme-stats)
 
 
