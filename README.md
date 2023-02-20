@@ -26,7 +26,8 @@
 
 #### SAMPLE WORK
   
-[![image_014_0122](https://img.youtube.com/vi/he81bfq65r0&t=8s/0.jpg)](https://youtu.be/he81bfq65r0)
+[![image_014_0122](https://user-images.githubusercontent.com/55102646/220183295-ab0943d2-a46b-4681-8e84-66884575f49d.jpg)(https://img.youtube.com/vi/he81bfq65r0&t=8s/0.jpg)](https://youtu.be/he81bfq65r0)
+
 
 
 
