@@ -26,7 +26,7 @@
 
 #### SAMPLE WORK
   
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Yhe81bfq65r0/.jpg)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
   
 
 
