@@ -26,7 +26,7 @@
 
 #### SAMPLE WORK
   
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Yhe81bfq65r0/.jpg)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
+[![Michael-Shollaj](https://img.youtube.com/vi/he81bfq65r0&t=8s/0.jpg)](https://youtu.be/he81bfq65r0)
   
 
 
