@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **michaelshollaj129@gmail.com**
 
-- ⚡ Fun fact **I'm metal fan \m/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
