@@ -1,6 +1,5 @@
-<p align="center".>
-   <![movie_001]"https://user-images.githubusercontent.com/55102646/220167060-e8240065-1fba-4afe-985d-9a01676af64e.gif" width ="200" height="200"/>
-</p>
+![movie_001](https://user-images.githubusercontent.com/55102646/220169754-c5cca9a1-7352-49b4-852c-0fdc797b5948.gif)
+
 
 <h1 align="center">Hi 👋, I'm Michael Shollaj</h1>
 <h3 align="center">Hi there and thanks for stopping by! My name is Michael, I'm a passionate game programmer who feels enjoyment and fulfillment from the journey of creating experiences</h3>
