@@ -1,4 +1,4 @@
-<img src ="![Logo](https://user-images.githubusercontent.com/55102646/220173204-4d31ab8c-bbcd-454d-9d09-f2e672e0ee79.gif") width = "256" />
+<img src ="https://user-images.githubusercontent.com/55102646/220173204-4d31ab8c-bbcd-454d-9d09-f2e672e0ee79.gif" width = "256" />
 
 
 <h1 align="center">Hi 👋, I'm Michael Shollaj</h1>
