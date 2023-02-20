@@ -18,7 +18,15 @@
 
 - 📫 How to reach me **michaelshollaj129@gmail.com**
 
-- ⚡ Fun fact **I'm metal fan \m/**
+- ⚡ Cool fact **I'm metal fan \m/**
+
+
+<img align="right" alt = "michael-shollaj" width ="400" src="![HarvardCertificate](https://user-images.githubusercontent.com/55102646/220174804-e59a293a-738e-4dcf-8a9a-478f3945f872.png)">
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
