@@ -21,10 +21,11 @@
 - ⚡ Cool fact **I'm metal fan \m/**
 
 
-<img align="right" alt = "michael-shollaj" width ="400" src="![HarvardCertificate](https://user-images.githubusercontent.com/55102646/220174804-e59a293a-738e-4dcf-8a9a-478f3945f872.png)">
+<img src ="https://user-images.githubusercontent.com/55102646/220175275-0f53eb80-4501-4749-a69a-d2612f698c65.png" width = "400" />
 
 
 
+![HarvardCertificate](https://user-images.githubusercontent.com/55102646/220175275-0f53eb80-4501-4749-a69a-d2612f698c65.png)
 
 
 
