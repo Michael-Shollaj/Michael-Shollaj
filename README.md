@@ -21,7 +21,8 @@
 - ⚡ Cool fact **I'm metal fan \m/**
 
 
-<p align = "left> <img src ="https://user-images.githubusercontent.com/55102646/220175275-0f53eb80-4501-4749-a69a-d2612f698c65.png" width = "400" />
+
+<p align = "left"> <img src ="https://user-images.githubusercontent.com/55102646/220175275-0f53eb80-4501-4749-a69a-d2612f698c65.png" width = "400" />
 
 
 
