@@ -1,5 +1,5 @@
 
-<img src ="https://user-![Prometheus](https://github.com/Michael-Shollaj/Michael-Shollaj/assets/55102646/723ee12e-f852-4096-9f74-beeb444438d6) width = "1020" />
+images.githubusercontent.com/55102646/723ee12e-f852-4096-9f74-beeb444438d6.png" width = "1020" />
 images.githubusercontent.com/55102646/220184917-5da3ac50-a02d-4caa-80fc-1390838ebf97.png" width = "1020" />
 
 <h1 align="center">Michael Shollaj</h1>
